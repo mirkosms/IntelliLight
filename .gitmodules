@@ -6,3 +6,6 @@
     path = app/IntelliLight-App
     url = https://github.com/mirkosms/IntelliLight-App.git
 
+[submodule "app/IntelliLight-App"]
+	path = app/IntelliLight-App
+	url = https://github.com/mirkosms/IntelliLight-App.git
