@@ -4,3 +4,6 @@
 [submodule "app"]
 	path = app
 	url = https://github.com/mirkosms/IntelliLight-App.git
+[submodule "IntelliLight-App"]
+	path = IntelliLight-App
+	url = https://github.com/mirkosms/IntelliLight-App.git
