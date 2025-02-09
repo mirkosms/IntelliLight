@@ -1,6 +1,8 @@
 [submodule "firmware"]
-	path = firmware
-	url = https://github.com/mirkosms/IntelliLight-Firmware.git
-[submodule "app/IntelliLight-App"]
-	path = app/IntelliLight-App
-	url = https://github.com/mirkosms/IntelliLight-App.git
+    path = firmware
+    url = https://github.com/mirkosms/IntelliLight-Firmware.git
+
+[submodule "app"]
+    path = app/IntelliLight-App
+    url = https://github.com/mirkosms/IntelliLight-App.git
+
